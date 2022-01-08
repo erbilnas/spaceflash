@@ -21,7 +21,7 @@ MonoBehaviour:
   ProtectedContext: 0
   FocusAware: 1
   OptimizeBufferDiscards: 1
-  PhaseSync: 0
+  PhaseSync: 1
   SubsampledLayout: 0
   TargetQuest: 1
   TargetQuest2: 1

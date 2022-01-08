@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 4016273362745119834}
   - component: {fileID: 4016273362745119835}
   - component: {fileID: 4016273362745119832}
+  - component: {fileID: 7209580359779057127}
   m_Layer: 11
   m_Name: LaserBeam
   m_TagString: Laser
@@ -62,6 +63,18 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 1
+--- !u!114 &7209580359779057127
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4016273362745119833}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60ae9d957d9ab475daf02452944f087b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &4016273363007671781
 GameObject:
   m_ObjectHideFlags: 0
