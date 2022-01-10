@@ -12,7 +12,8 @@ GameObject:
   - component: {fileID: 4016273362745119835}
   - component: {fileID: 4016273362745119832}
   - component: {fileID: 7209580359779057127}
-  m_Layer: 11
+  - component: {fileID: 8765992322732253982}
+  m_Layer: 9
   m_Name: LaserBeam
   m_TagString: Laser
   m_Icon: {fileID: 0}
@@ -75,6 +76,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 60ae9d957d9ab475daf02452944f087b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  thrust: 80
+--- !u!114 &8765992322732253982
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4016273362745119833}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb2ca0be1e6b0438a84cac6ef3e9853d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  asteroidExplosion: {fileID: 5587333519594629070, guid: c34c359c899647148a75c1c18db29282,
+    type: 3}
 --- !u!1 &4016273363007671781
 GameObject:
   m_ObjectHideFlags: 0
@@ -86,7 +102,7 @@ GameObject:
   - component: {fileID: 4016273363007671784}
   - component: {fileID: 4016273363007671785}
   - component: {fileID: 4016273363007671782}
-  m_Layer: 11
+  m_Layer: 9
   m_Name: LaserBeam
   m_TagString: Untagged
   m_Icon: {fileID: 0}
