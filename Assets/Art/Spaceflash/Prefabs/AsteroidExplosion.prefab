@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 5587333519594629068}
   - component: {fileID: 5587333519594629071}
   - component: {fileID: -1802887091160970665}
+  - component: {fileID: 4491038419746127814}
   m_Layer: 0
   m_Name: AsteroidExplosion
   m_TagString: Untagged
@@ -4768,8 +4769,7 @@ ParticleSystemRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 9f1012b44bf7c9c409be087f912f219a, type: 2}
-  - {fileID: 0}
+  - {fileID: 2100000, guid: c7457e486f0a7f8488f3028cde24b3d4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -4823,7 +4823,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 5129f432896945d47871c249c8b1b1f2, type: 3}
+  m_audioClip: {fileID: 8300000, guid: d06da90cbfe0b4bcaba30113c7884745, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -4909,3 +4909,15 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &4491038419746127814
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5587333519594629070}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecf93e2f296e4bbabb07d9c6f571015, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
