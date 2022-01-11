@@ -63,7 +63,6 @@ public class GameManager : MonoBehaviour
 
     public void ResetGame() {
         onGameReset.Invoke();
-    
         playerScore = 0;
         sliderCurrentFillAmount = 1f;
     }
