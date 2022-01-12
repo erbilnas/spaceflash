@@ -1,7 +1,22 @@
 fileFormatVersion: 2
 guid: 6ffda99f5536f4d5bbe69fafbd1d40bf
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 209345608997765263
+    second: UIGenericFutureImages_0
+  - first:
+      213: -517697304872931977
+    second: UIGenericFutureImages_3
+  - first:
+      213: -1265053607060900495
+    second: UIGenericFutureImages_5
+  - first:
+      213: -4672613598471953796
+    second: UIGenericFutureImages_9
+  - first:
+      213: -3062360621008099945
+    second: UIGenericFutureImages_12
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -121,11 +136,116 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: UIGenericFutureImages_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 947
+        width: 912
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f808993e8beb7e200800000000000000
+      internalID: 209345608997765263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIGenericFutureImages_3
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 431
+        width: 438
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d2fd94b05c0d8f0800000000000000
+      internalID: -517697304872931977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIGenericFutureImages_5
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 601
+        width: 279
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175fe496270a17ee0800000000000000
+      internalID: -1265053607060900495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIGenericFutureImages_9
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 296
+        width: 862
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c726b6250ba872fb0800000000000000
+      internalID: -4672613598471953796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIGenericFutureImages_12
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 160
+        width: 914
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795eaa28d3f4085d0800000000000000
+      internalID: -3062360621008099945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 9e70f02f8646041049cc5eeeb1afac9a
     internalID: 0
     vertices: []
     indices: 
